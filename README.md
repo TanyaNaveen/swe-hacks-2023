@@ -17,8 +17,10 @@ ColorfulCare is a mental health app that provides a safe and inclusive space for
 We began by creating a prototype on Figma, and then we used our design to develop a couple static pages such as the login page and the landing page using HTML and CSS. 
 
 ## 🥅 Challenges we ran into
+We wanted to integrate Google Firebase into our login authentication process, but we ran into some issues when we tried to integrate it with our code. We were able to set up the database and authentication system in Firebase, and our next step is to get the authentication feature working in our code. We also had some of the components rendered using React, but incorporating those components with the other elements of the application proved challenging. 
 
 ## 🎯 Accomplishments that we're proud of
+We are proud of coming up with an idea central to our roots as Asian women, working towards supporting our community through our passion for technology. In addition, we are proud of leveraging React to strive to create a multi-platform community addressing a real-life problem.
 
 ## 📓 What we learned
 Creating ColorfulCare has been a tremendous learning experience. From using Figma to prototype the app professionally, to developing an efficient process to iterate on ideas, the project has been a valuable opportunity to hone our skills. Collaborating with a diverse team, we have learned to leverage each of our strengths to achieve our goals. ColorfulCare has taught us the importance of leveraging technology for a greater cause, and how powerful it can be to bring people together around important issues.
