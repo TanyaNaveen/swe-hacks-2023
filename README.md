@@ -4,7 +4,7 @@ In many Asian socieites, mental health is often stigmatized due to cultural beli
 ## 💼 What it does
 ColorfulCare is a mental health app that provides a safe and inclusive space for minority individuals to connect, share experiences, and find support. Our app connects users from different ethnicities, religions, sexualities, and genders to group chats where they can discuss their mental health concerns and receive support from others who understand their experiences.
 
-#Features#
+# Features
 **Group Chats**: Our app provides access to group chats where users can connect with others who share their experiences and receive support for their mental health concerns.
 
 **Local Group Meetings**: We help users find local group mental health meetings based on their zip code, enabling them to connect with others in their community.
