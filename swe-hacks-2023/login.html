@@ -12,21 +12,27 @@
 <style>
     body {
         font-family: 'Inter';
-        font-size: 22px;
     }
 </style>
 <body>
-    <div className="page">
-        <div class="title"> 
-            <div class = "row">
+    <div>
+        <div class='row title-logo'>
+            <div class='column logo'>
                 <div><img src=logo.png height="100" width="100"/></div>
-                <div><h3>Welcome To ColorfulCare!</h3></div>
-            </div>    
-        </div>
+            </div>
+            <div class='column title'>
+                <div class = "row small-text">Welcome To</div>
+                <div class = "row big-text">ColorfulCare!</div>
+
+            </div>
+          </div>
+        
+    </div>
+    <div class="center">
 
         <div class="login">
             <div><input type="text" className="login__textBox" placeholder="Email" text-align="center" display="block"/></div>
-            <div><input type="text" className="login__textBox" placeholder="Password" text-align="center" display="block" type="password"/></div>
+            <div><input type="text"  type="password" className="login__textBox" placeholder="Password" text-align="center" display="block"></div>
         </div>
 
         <div>
