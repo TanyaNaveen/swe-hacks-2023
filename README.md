@@ -14,7 +14,9 @@ ColorfulCare is a mental health app that provides a safe and inclusive space for
 **Safe and Inclusive Space**: Our goal is to provide a welcoming and inclusive space for individuals from all backgrounds to find support and promote positive mental health, and to ultimately mitigate the stigma surrounding mental health in minority communities.
 
 ## 🔨 How we built it
-We began by creating a prototype on Figma, and then we used our design to develop a couple static pages such as the login page and the landing page using React, HTML, and CSS. 
+**UX Design**: We first created high-fidelity wireframes using Figma to map out an intuitive experience for users.
+
+**Web Development**: We used HTML, CSS, & React to develop the main initial pages of ColorfulCare, and the Google Fonts API to import fonts central to ColorfulCare's branding. We connected a Google Firestore database with our application for the backend. 
 
 ## 🥅 Challenges we ran into
 We wanted to integrate Google Firebase into our login authentication process, but we ran into some issues when we tried to integrate it with our code. We were able to set up the database and authentication system in Firebase, and our next step is to get the authentication feature working in our code. We also had some of the components rendered using React, but incorporating those components with the other elements of the application proved challenging. 
